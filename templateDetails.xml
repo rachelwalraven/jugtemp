@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.3" type="template" client="site" method="upgrade">
+    <name>webwerk</name>
+    <creationDate>2019</creationDate>
+    <author>Rachel Walraven</author>
+    <copyright>Copyright © 2019</copyright>
+    <authorEmail>info@walravenwebwerk.nl</authorEmail>
+    <authorUrl>https://walravenwebwerk.nl</authorUrl>
+    <version>1.0.0</version>
+    <description>
+        <![CDATA[ 
+		<h1>Custom template for </h1>
+		<p>Custom Joomla template with Bootstrap, Font Awesome and JQuery.</p>
+	]]>
+    </description>
+
+    <files>
+        <folder>css</folder>
+        <filename>index.php</filename>
+        <filename>offline.php</filename>
+        <filename>template_preview.png</filename>
+        <filename>template_thumbnail.png</filename>
+        <filename>templateDetails.xml</filename>
+    </files>
+
+    <positions>
+        <position>modulepositienaam</position>
+    </positions>
+</extension>
