@@ -1,1 +1,1 @@
-Test bestanden voor de presentatie TEmplates maken voor beginners
+Test bestanden voor de presentatie Templates maken voor beginners
